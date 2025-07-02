@@ -25,6 +25,12 @@ Countdown_Timer/
 
 ---
 
+## 🖼️ Preview
+
+![Screenshot](Screenshot%20(77).png)
+
+---
+
 ## 🛠️ How to Use
 
 1. Clone or download the repository.
