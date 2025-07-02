@@ -1,6 +1,6 @@
 # ⏳ Countdown Timer
 
-A simple and responsive countdown timer built using **HTML**, **CSS**, and **Vanilla JavaScript**. Users can input a time (in minutes), and control the timer with Start, Pause, Stop, and Reset buttons. It also features a progress bar and light/dark theme toggle.
+A simple and responsive countdown timer built using **HTML**, **CSS**, and **Vanilla JavaScript**. Users can input a time, and control the timer with Start, Pause, Stop, and Reset buttons. It also features a progress bar and light/dark theme toggle.
 
 ---
 
@@ -29,7 +29,7 @@ Countdown_Timer/
 
 1. Clone or download the repository.
 2. Open `index.html` in any web browser.
-3. Enter the time (in minutes) and click **Set Timer**.
+3. Enter the time and click **Set Timer**.
 4. Use the control buttons to manage the countdown.
 
 ---
