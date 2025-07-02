@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>02-Countdown_Timer</title>
+    <link rel="stylesheet" href="02_style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 id="title">Countdown Timer</h1>
+        <label id="timerLabel" for="timerInput">Enter the Timer Value (minutes):</label>
+        <input type="text" name="timerInput" id="timerInput">
+        <input type="submit" name="SUBMIT" id="timerSubmit" value="Set Timer">
+        <p id="timer">00:00</p>
+
+        <div class="progress-bar">
+            <div class="progress" id="progress"></div>
+        </div>
+
+        <div class="button-wrapper">
+            <button id="start">Start</button>
+            <button id="pause">Pause</button>
+            <button id="stop">Stop</button>
+            <button id="reset">Reset</button>
+        </div>
+
+        <button id="theme-toggle">Toggle Theme</button>
+    </div>
+
+    <script src="02_javascript.js"></script>
+</body>
+</html>
